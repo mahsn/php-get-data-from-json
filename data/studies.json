@@ -1,0 +1,47 @@
+[
+  {
+    "StudyId": 1,
+    "ApplicationDeadline": "25-03-2023",
+    "StartDate": "15-08-2023",
+    "Description": "Some description text about this awesome study",
+    "Duration": "months",
+    "DurationValue": 30,
+    "Level": "master",
+    "Link": "www.someurl.com",
+    "LastUpdated": "13-02-2022",
+    "Tuition": "yearly",
+    "TuitionValue": {
+      "EUR": 30000,
+      "USD": 40000,
+      "GBP": 29000
+    }
+  },
+  {
+    "StudyId": 2,
+    "ApplicationDeadline": "25-03-2023",
+    "StartDate": "15-02-2023",
+    "Description": "Some description text",
+    "Duration": "months",
+    "DurationValue": 60,
+    "Level": "bachelor",
+    "Link": "myurl",
+    "LastUpdated": "13-02-2022"
+  },
+  {
+    "StudyId": 3,
+    "ApplicationDeadline": "25-03-2023",
+    "StartDate": "15-09-2023",
+    "Description": "Some description text",
+    "Duration": "months",
+    "DurationValue": 60,
+    "Level": "master",
+    "Link": "www.someurl.com",
+    "LastUpdated": "13-02-2022",
+    "Tuition": "semester",
+    "TuitionValue": {
+      "EUR": 14000,
+      "USD": 20000,
+      "GBP": 29000
+    }
+  }
+]
